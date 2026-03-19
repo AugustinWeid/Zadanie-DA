@@ -1,2 +1,0 @@
-# Here are the solutions to all 15 tasks that need to be done as a test. The first number is the block, the second is the task. I will write the task in the start of every solution, because so you will navigate better.
-# Block 1 and 2 use Python formats entirely, Block 3 uses MS SQL, Block 4 and task 5.1 use Markdown, and tasks 5.2 and 5.3 use Python
